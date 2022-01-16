@@ -263,4 +263,7 @@ footer a {
     .payment-info {
         width: 100%;
     }
+    footer {
+        padding-bottom: 40px;
+    }
 }
